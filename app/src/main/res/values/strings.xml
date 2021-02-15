@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BabySleep</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="delay">Start In</string>
+    <string name="duration">Duration</string>
+    <string name="fade_in">Fade In</string>
+    <string name="fade_out">Fade Out</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
